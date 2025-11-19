@@ -1,6 +1,6 @@
 echo "installing required packages"
 
-sudo dnf install plymouth plymouth-plugin-script plymouth-theme-charge unzip
+sudo dnf install plymouth plymouth-plugin-script plymouth-theme-charge unzip curl
 
 mkdir ~/pipa-plymouth-files
 
